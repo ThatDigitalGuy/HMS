@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0BWaPt38Wy+JP0kpueo0Do6007IthWoCBTeAW8TbVedN6BbAn0jHLLPaqCv3uMDTB46X2q+FlFykeMymEugCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c4047020\\source\\repos\\ThatDigitalGuy\\HMS-Assignment\\HMS\\HMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c4047020\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

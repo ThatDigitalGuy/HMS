@@ -1,0 +1,95 @@
+[14/11/2024 10:06:04][14/11/2024 10:06:04] Created './Logs' directory and './Logs/log_14112024.txt' file.
+[14/11/2024 10:06:04][APP | Start-up] INFO > './Patients' folder doesn't exist. Creating...
+[14/11/2024 10:06:04][APP | Start-up] INFO > './auth.json' folder doesn't exist. Creating...
+[14/11/2024 10:06:04][APP | Start-up] INFO > './auth.json' is empty. Creating new admin user...
+[14/11/2024 10:06:04](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:06:04](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 10:06:04](AUTH) Administrator (001) has successfully logged out.
+[14/11/2024 10:06:52][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:06:52](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:06:52](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:06:52](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 10:06:52](AUTH) Administrator (001) has successfully logged out.
+[14/11/2024 10:07:34][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:07:34](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:07:34](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 10:07:34](AUTH) Administrator (001) has successfully logged out.
+[14/11/2024 10:08:27][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:08:27](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:08:27](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 10:15:12][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:15:12](AUTH) Trying to authenticate user with the email 'admin'.
+[14/11/2024 10:15:12](AUTH) Authentication failed.
+[14/11/2024 10:16:08][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:16:08](AUTH) Trying to authenticate user with the email 'a'.
+[14/11/2024 10:16:08](AUTH) Authentication failed.
+[14/11/2024 10:16:08](AUTH) Trying to authenticate user with the email 'a'.
+[14/11/2024 10:16:08](AUTH) Authentication failed.
+[14/11/2024 10:17:16][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:17:16](AUTH) Trying to authenticate user with the email 'a'.
+[14/11/2024 10:17:16](AUTH) Authentication failed.
+[14/11/2024 10:17:16](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:17:16](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 10:17:16](AUTH) Administrator (001) has successfully logged out.
+[14/11/2024 10:57:21][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:57:21](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:57:21](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 10:58:55][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 10:58:55](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 10:58:55](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:07:43][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:07:43](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:07:43](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:08:20][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:08:20](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:08:20](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:09:39][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:09:39](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:09:39](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:10:29][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:10:29](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:10:29](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:15:35][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:15:35](AUTH) Trying to authenticate user with the email 's'.
+[14/11/2024 11:15:35](AUTH) Authentication failed.
+[14/11/2024 11:15:35](AUTH) Trying to authenticate user with the email 's'.
+[14/11/2024 11:15:35](AUTH) Authentication failed.
+[14/11/2024 11:15:35](AUTH) Trying to authenticate user with the email 's'.
+[14/11/2024 11:15:35](AUTH) Authentication failed.
+[14/11/2024 11:17:02][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:17:02](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:17:02](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:23:59][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:23:59](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:23:59](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:24:08](Patient | CREATE) Administrator has started to create a user.
+[14/11/2024 11:24:08](Patient | CREATE) The new user ID is 68211 and file stored in ./Patients/68211-record.json.
+[14/11/2024 11:28:00][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:28:00](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:28:00](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:28:07](Patient | CREATE) Administrator has started to create a user.
+[14/11/2024 11:28:07](Patient | CREATE) The new user ID is 25853 and file stored in ./Patients/25853-record.json.
+[14/11/2024 11:32:55][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:32:55](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:32:55](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:33:07](Patient | CREATE) Administrator has started to create a user.
+[14/11/2024 11:33:07](Patient | CREATE) The new user ID is 97303 and file stored in ./Patients/97303-record.json.
+[14/11/2024 11:33:32](Patient | CREATE) Administrator has started to create a user.
+[14/11/2024 11:33:32](Patient | CREATE) The new user ID is 74552 and file stored in ./Patients/74552-record.json.
+[14/11/2024 11:38:49][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:38:49](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:38:49](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:38:49](AUTH) Administrator (001) has successfully logged out.
+[14/11/2024 11:38:49](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:38:49](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:44:39][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:44:39](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:44:39](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:45:22][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:45:22](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:45:22](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:46:01][APP | Start-up] INFO > './auth.json' has content.
+[14/11/2024 11:46:01](AUTH) Trying to authenticate user with the email 'admin@admin.com'.
+[14/11/2024 11:46:01](AUTH) Administrator (001) has successfully logged in.
+[14/11/2024 11:47:22](Patient | CREATE) Administrator has started to create a user.
+[14/11/2024 11:47:22](Patient | CREATE) The new user ID is 91681 and file stored in ./Patients/91681-record.json.
